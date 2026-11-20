@@ -1,0 +1,15 @@
+{
+  "name": "Moonsmith",
+  "url": "https://moonsmith.app/?ref=indiegoodies",
+  "description": "Native Mac app for a team of AI agents that delegate to each other, each on the model you choose",
+  "category": "ai",
+  "platforms": ["mac"],
+  "deal": "20% off the first year of Pro with code BLACKFRIDAY26",
+  "code": "BLACKFRIDAY26",
+  "pricing": "subscription",
+  "price": { "regular": 79, "sale": 63.2, "currency": "EUR" },
+  "discount": 20,
+  "startDate": "2026-11-23",
+  "endDate": "2026-12-01",
+  "icon": "https://moonsmith.app/press/moonsmith-icon-1024.png"
+}
